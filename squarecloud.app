@@ -1,0 +1,5 @@
+MAIN=index.js
+MEMORY=256
+VERSION=recommended
+DISPLAY_NAME=T3NBot
+DESCRIPTION=T3N Shop Bot
